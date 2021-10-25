@@ -1,0 +1,47 @@
+.App {
+  text-align: center;
+  
+
+}
+h3{
+    border-style: inset;
+    border-radius: 10px;
+    width: 60%;
+    margin: auto;
+    height: 10%;
+    margin-bottom: 50px;
+    margin-top: 20px;
+    background-color: white;
+  
+
+  
+}
+
+.buttons{
+  grid-template-rows:    repeat(4, 100px);
+  grid-template-columns: repeat(3, 1fr);
+ width: 30%; 
+ margin: 3px;
+ height: 40px;
+ border-radius: 10px;
+ background-color: white;
+
+ 
+
+  
+}
+.wrapper{
+  width: 50%;
+  
+  margin: 0 auto;
+  text-align: center;
+  height: 400px;
+  width: 300px;
+  background-color: rgb(75, 112, 75);
+  padding:20px;
+  border-radius: 20px;
+}
+
+
+
+
